@@ -8,4 +8,4 @@ A simple responsive e-commerce page created by HTML, CSS, Bootstrap and Javascri
 * Bootstrap 4
 
 ### Setup
-Clone this repository: git clone https://github.com/sakshibasapure/BCT-POC-1-HTML-CSS-JavaScript.git
+Clone this repository: git clone https://github.com/sakshibasapure/BCT-POC-1-Sakshi-Basapure.git
