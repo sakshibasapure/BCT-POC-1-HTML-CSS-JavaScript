@@ -1,4 +1,4 @@
-## Responsive E-Commerce Page
+## E-CommerceXpress Lite
 A simple responsive e-commerce page created by HTML, CSS, Bootstrap and Javascript. This page has been created according to the guidelines given for POC 1 by BCT L&D team.
 
 
